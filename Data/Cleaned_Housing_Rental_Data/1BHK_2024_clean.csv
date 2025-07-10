@@ -1,0 +1,22 @@
+year,room_type,zone,vacancy_rate,availability_rate,average_rent,median_rent,units
+2024,1BHK,West End/Stanley Park,0.4,,1835.0,1846.0,2715.0
+2024,1BHK,English Bay,1.3,,1970.0,2000.0,5183.0
+2024,1BHK,Downtown,2.6,,2076.0,2058.0,7965.0
+2024,1BHK,South Granville/Oak,1.0,,1816.0,1766.0,5428.0
+2024,1BHK,Kitsilano/Point Grey,0.6,,1870.0,1815.0,5090.0
+2024,1BHK,Westside/Kerrisdale,1.5,,1833.0,1759.0,1911.0
+2024,1BHK,Marpole,1.9,,1475.0,1450.0,2805.0
+2024,1BHK,Mount Pleasant/Renfrew Heights,1.1,,1732.0,1695.0,4724.0
+2024,1BHK,East Hastings,1.4,,1600.0,1500.0,3844.0
+2024,1BHK,University Endowment Lands,0.7,,2387.0,2400.0,628.0
+2024,1BHK,Central Park/Metrotown,1.5,,1647.0,1550.0,3197.0
+2024,1BHK,Southeast Burnaby,0.3,,1454.0,1500.0,1358.0
+2024,1BHK,North Burnaby,2.6,,1723.0,1700.0,2342.0
+2024,1BHK,New Westminster,1.6,,1584.0,1550.0,6014.0
+2024,1BHK,Richmond,1.0,,1724.0,1747.0,1419.0
+2024,1BHK,Delta,0.7,,1286.0,1225.0,843.0
+2024,1BHK,Surrey,2.4,,1625.0,1775.0,3635.0
+2024,1BHK,White Rock,2.2,,1527.0,1600.0,940.0
+2024,1BHK,Langley City and Langley DM,2.3,,1723.0,1700.0,1666.0
+2024,1BHK,Tri-Cities,2.5,,1711.0,1630.0,2777.0
+2024,1BHK,Maple Ridge/Pitt Meadows,0.5,,1302.0,1250.0,1125.0

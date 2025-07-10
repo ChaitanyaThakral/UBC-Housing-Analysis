@@ -1,0 +1,22 @@
+year,room_type,zone,vacancy_rate,availability_rate,average_rent,median_rent,units
+2021,2BHK,West End/Stanley Park,0.7,,2275.0,2250.0,484.0
+2021,2BHK,English Bay,1.9,,2404.0,2250.0,697.0
+2021,2BHK,Downtown,2.3,,2627.0,2618.0,1605.0
+2021,2BHK,South Granville/Oak,,,2180.0,2093.0,1578.0
+2021,2BHK,Kitsilano/Point Grey,1.0,,2202.0,2175.0,1392.0
+2021,2BHK,Westside/Kerrisdale,0.6,,2138.0,2150.0,1005.0
+2021,2BHK,Marpole,0.5,,1485.0,1500.0,686.0
+2021,2BHK,Mount Pleasant/Renfrew Heights,1.0,,1863.0,1754.0,1139.0
+2021,2BHK,East Hastings,0.6,,1759.0,1675.0,968.0
+2021,2BHK,University Endowment Lands,0.0,,2604.0,2625.0,574.0
+2021,2BHK,Central Park/Metrotown,1.3,,1657.0,1675.0,1340.0
+2021,2BHK,Southeast Burnaby,0.8,,1503.0,1550.0,624.0
+2021,2BHK,North Burnaby,1.8,,1684.0,1700.0,1256.0
+2021,2BHK,New Westminster,0.9,,1624.0,1563.0,2420.0
+2021,2BHK,Richmond,1.0,,1608.0,1550.0,1321.0
+2021,2BHK,Delta,2.0,,1431.0,1545.0,755.0
+2021,2BHK,Surrey,0.7,,1352.0,1300.0,2603.0
+2021,2BHK,White Rock,1.3,,1385.0,1380.0,402.0
+2021,2BHK,Langley City and Langley DM,1.0,,1611.0,1600.0,1694.0
+2021,2BHK,Tri-Cities,2.8,,1669.0,1525.0,1929.0
+2021,2BHK,Maple Ridge/Pitt Meadows,3.6,,1334.0,1300.0,633.0
