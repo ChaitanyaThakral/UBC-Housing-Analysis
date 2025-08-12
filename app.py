@@ -6,9 +6,9 @@ import xgboost as xgb
 
 app = Flask(__name__)
 
-model_trend = "linear_trend_model.pkl"
-model_residual = "xgb_residual_model.pkl"
-model_features = "feature_names.pkl"
+model_trend = "models/linear_trend_model.pkl"
+model_residual = "models/xgb_residual_model.pkl"
+model_features = "models/feature_names.pkl"
 
 list_model = [model_trend, model_residual , model_features] 
 
