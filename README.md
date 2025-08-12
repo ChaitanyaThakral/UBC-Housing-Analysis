@@ -63,13 +63,15 @@ The project unfolds in two phases:
 - **Canada Mortgage and Housing Corporation (CMHC)** Rental Market Data for Vancouver (2020–2024)
 
 ---
-
-## Usage Notice
-
-This repository contains proprietary code and analysis developed by Chaitanya Thakral.  
-You are welcome to explore and learn from this work, but please **do not copy, redistribute, or use the code and data for commercial purposes without explicit permission**.  
-For inquiries or collaboration, please contact me directly at cthakral6@gmail.com
-
+## Installation
+1. Clone the repo:  
+   `git clone https://github.com/yourusername/yourrepo.git`  
+2. Navigate to the project folder:  
+   `cd yourrepo`  
+3. Install dependencies:  
+   `pip install -r requirements.txt`  
+4. Run the Flask server:  
+   `python app.py`
 ---
 ## Project Structure (Summary)
 
@@ -82,4 +84,12 @@ project-root/
 ├── static/                # CSS, images for frontend
 ├── templates/             # HTML templates for Flask
 └── README.md              # This file
+```
+---
+## Usage Notice
 
+This repository contains proprietary code and analysis developed by Chaitanya Thakral.  
+You are welcome to explore and learn from this work, but please **do not copy, redistribute, or use the code and data for commercial purposes without explicit permission**.  
+For inquiries or collaboration, please contact me directly at cthakral6@gmail.com
+
+---
