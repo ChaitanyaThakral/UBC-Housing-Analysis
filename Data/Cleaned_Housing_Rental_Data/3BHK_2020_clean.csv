@@ -1,0 +1,22 @@
+year,room_type,zone,vacancy_rate,availability_rate,average_rent,median_rent,units
+2020,3BHK,West End/Stanley Park,0.0,,3146.0,2995.0,33.0
+2020,3BHK,English Bay,,,,,31.0
+2020,3BHK,Downtown,3.4,,4205.0,4313.0,63.0
+2020,3BHK,South Granville/Oak,,,2414.0,2500.0,58.0
+2020,3BHK,Kitsilano/Point Grey,0.0,,3079.0,3100.0,66.0
+2020,3BHK,Westside/Kerrisdale,7.1,,3018.0,2975.0,102.0
+2020,3BHK,Marpole,0.0,,1430.0,1500.0,24.0
+2020,3BHK,Mount Pleasant/Renfrew Heights,0.0,,2336.0,,84.0
+2020,3BHK,East Hastings,0.8,,1933.0,1825.0,140.0
+2020,3BHK,University Endowment Lands,13.3,,3631.0,3350.0,62.0
+2020,3BHK,Central Park/Metrotown,3.2,,2001.0,1925.0,55.0
+2020,3BHK,Southeast Burnaby,0.0,,1590.0,1590.0,116.0
+2020,3BHK,North Burnaby,3.8,,1985.0,1950.0,426.0
+2020,3BHK,New Westminster,1.1,,1870.0,1850.0,204.0
+2020,3BHK,Richmond,1.0,,1926.0,1900.0,476.0
+2020,3BHK,Delta,0.0,,1640.0,1400.0,31.0
+2020,3BHK,Surrey,0.6,,1558.0,1590.0,669.0
+2020,3BHK,White Rock,0.0,,,,10.0
+2020,3BHK,Langley City and Langley DM,1.2,,1633.0,1600.0,254.0
+2020,3BHK,Tri-Cities,0.0,,1870.0,1938.0,436.0
+2020,3BHK,Maple Ridge/Pitt Meadows,2.4,,1658.0,1623.0,122.0

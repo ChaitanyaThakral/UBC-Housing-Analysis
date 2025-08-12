@@ -1,0 +1,22 @@
+year,room_type,zone,vacancy_rate,availability_rate,average_rent,median_rent,units
+2022,Bachelor,West End/Stanley Park,0.4,,1333.0,1340.0,685.0
+2022,Bachelor,English Bay,2.2,,1343.0,1298.0,894.0
+2022,Bachelor,Downtown,2.3,,1604.0,1550.0,2443.0
+2022,Bachelor,South Granville/Oak,0.8,,1323.0,1265.0,1694.0
+2022,Bachelor,Kitsilano/Point Grey,0.1,,1375.0,1355.0,837.0
+2022,Bachelor,Westside/Kerrisdale,3.4,,1484.0,1265.0,263.0
+2022,Bachelor,Marpole,0.4,,1082.0,1023.0,325.0
+2022,Bachelor,Mount Pleasant/Renfrew Heights,0.1,,1369.0,1372.0,1079.0
+2022,Bachelor,East Hastings,0.7,,1482.0,1458.0,1059.0
+2022,Bachelor,University Endowment Lands,0.5,,1613.0,1647.0,192.0
+2022,Bachelor,Central Park/Metrotown,3.1,,1339.0,1200.0,293.0
+2022,Bachelor,Southeast Burnaby,0.0,,1088.0,930.0,138.0
+2022,Bachelor,North Burnaby,2.1,,1091.0,975.0,281.0
+2022,Bachelor,New Westminster,0.7,,1248.0,1220.0,1078.0
+2022,Bachelor,Richmond,0.6,,1185.0,1269.0,339.0
+2022,Bachelor,Delta,0.0,,881.0,863.0,78.0
+2022,Bachelor,Surrey,2.1,,1099.0,1005.0,71.0
+2022,Bachelor,White Rock,0.0,,1016.0,975.0,74.0
+2022,Bachelor,Langley City and Langley DM,0.0,,921.0,822.0,90.0
+2022,Bachelor,Tri-Cities,2.0,,1204.0,1100.0,215.0
+2022,Bachelor,Maple Ridge/Pitt Meadows,0.0,,837.0,845.0,20.0

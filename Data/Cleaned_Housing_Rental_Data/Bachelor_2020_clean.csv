@@ -1,0 +1,22 @@
+year,room_type,zone,vacancy_rate,availability_rate,average_rent,median_rent,units
+2020,Bachelor,West End/Stanley Park,0.8,,1229.0,1225.0,687.0
+2020,Bachelor,English Bay,2.7,,1340.0,1300.0,850.0
+2020,Bachelor,Downtown,5.9,,1450.0,1400.0,2437.0
+2020,Bachelor,South Granville/Oak,2.8,,1246.0,1213.0,1400.0
+2020,Bachelor,Kitsilano/Point Grey,1.3,,1261.0,1265.0,824.0
+2020,Bachelor,Westside/Kerrisdale,2.4,,1248.0,1102.0,215.0
+2020,Bachelor,Marpole,1.5,,955.0,978.0,341.0
+2020,Bachelor,Mount Pleasant/Renfrew Heights,1.3,,1281.0,1260.0,1002.0
+2020,Bachelor,East Hastings,1.9,,1330.0,1338.0,1033.0
+2020,Bachelor,University Endowment Lands,3.9,,1507.0,1549.0,127.0
+2020,Bachelor,Central Park/Metrotown,7.3,,1144.0,1050.0,314.0
+2020,Bachelor,Southeast Burnaby,2.5,,920.0,880.0,139.0
+2020,Bachelor,North Burnaby,1.5,,953.0,875.0,284.0
+2020,Bachelor,New Westminster,1.3,,1132.0,1050.0,1212.0
+2020,Bachelor,Richmond,1.8,,1120.0,1140.0,334.0
+2020,Bachelor,Delta,7.9,,856.0,850.0,73.0
+2020,Bachelor,Surrey,3.0,,925.0,908.0,82.0
+2020,Bachelor,White Rock,1.3,,946.0,901.0,73.0
+2020,Bachelor,Langley City and Langley DM,0.0,,961.0,900.0,91.0
+2020,Bachelor,Tri-Cities,1.8,,982.0,925.0,172.0
+2020,Bachelor,Maple Ridge/Pitt Meadows,,,713.0,750.0,25.0
