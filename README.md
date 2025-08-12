@@ -73,12 +73,4 @@ For inquiries or collaboration, please contact me directly at cthakral6@gmail.co
 ---
 ## Project Structure (Summary)
 
-project-root/
-├── app.py # Flask backend server
-├── data/ # Raw and cleaned datasets for analysis
-├── notebooks/ # Jupyter notebooks for Phase 1 & Phase 2 analysis
-├── models/ # Serialized trained models
-├── static/ # CSS, images for frontend
-├── templates/ # HTML templates for Flask
-└── README.md # This file
-
+<pre> ``` project-root/ ├── app.py # Flask backend server ├── data/ # Raw and cleaned datasets for analysis ├── notebooks/ # Jupyter notebooks for Phase 1 & Phase 2 analyses ├── models/ # Serialized trained models ├── static/ # CSS, images for frontend ├── templates/ # HTML templates for Flask └── README.md # This file ``` </pre>
