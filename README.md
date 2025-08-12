@@ -68,6 +68,6 @@ The project unfolds in two phases:
 
 This repository contains proprietary code and analysis developed by Chaitanya Thakral.  
 You are welcome to explore and learn from this work, but please **do not copy, redistribute, or use the code and data for commercial purposes without explicit permission**.  
-For inquiries or collaboration, please contact me directly.
+For inquiries or collaboration, please contact me directly at cthakral6@gmail.com
 
 ---
