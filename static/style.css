@@ -232,3 +232,18 @@ input{
         margin-bottom: 0;
     }
 }
+
+.about-content {
+    display: grid;
+    gap: 20px; 
+    width: 100%;
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px;
+    text-align: left;
+}
+
+.about-content p, .about-content h3 {
+    margin: 5px 0; 
+    line-height: 1.5; 
+}

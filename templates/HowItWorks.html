@@ -24,9 +24,18 @@
             <h1 >How RentWise Works</h1>
 
             <section class="about-content">
-               
-
-                </section>
+                <p>RentWise leverages historical rental data from 2020 to 2024 collected from the Canada Mortgage and Housing Corporation (CMHC). It uses a two-step predictive modeling approach:</p>
+                
+                <h2>Trend Estimation</h2>
+                <p>A linear regression model captures the overall rental price trends over time.</p>
+                
+                <h2>Residual Correction</h2>
+                <p>An XGBoost model predicts the remaining variations (residuals) that the linear trend doesn’t explain.</p>
+                
+                <p>When a user inputs the year, room type, and zone, the app constructs a feature vector, feeds it into these models, and combines the outputs to produce an estimated rent value.</p>
+                
+                <p>This hybrid approach allows RentWise to account for both linear trends and complex, non-linear factors, resulting in more accurate and reliable rent predictions for various room types and neighborhoods.</p>
+            </section>
         </main>
 
         <footer class="bottom-nav">
