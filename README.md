@@ -65,7 +65,7 @@ The project unfolds in two phases:
 ---
 ## Installation
 1. Clone the repo:  
-   `git clone https://github.com/yourusername/yourrepo.git`  
+   `git clone https://github.com/ChaitanyaThakral/UBC-Housing-Analysis.git`  
 2. Navigate to the project folder:  
    `cd yourrepo`  
 3. Install dependencies:  
