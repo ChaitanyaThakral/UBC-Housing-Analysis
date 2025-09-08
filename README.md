@@ -43,7 +43,7 @@ The project unfolds in two phases:
 - Exported the trained models using Joblib for later deployment.
 - Developed a user-friendly frontend using HTML and CSS for easy input of parameters like year, room type, and zone.
 - Implemented a Python Flask backend to handle model predictions and serve the frontend interface.
-- The web app is publicly accessible at: [https://ubc-housing-analysis.onrender.com](https://ubc-housing-analysis.onrender.com)
+- The web app is publicly accessible at: [https://rentwise-s4a9.onrender.com/](https://rentwise-s4a9.onrender.com/)
 
 ---
 
