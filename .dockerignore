@@ -1,0 +1,34 @@
+# Version control
+.git
+.gitignore
+
+# Python caching and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+env/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Render/Netlify stuff
+runtime.txt
+
+# Local data (if you don't want datasets in the container)
+# data/
+# notebooks/
